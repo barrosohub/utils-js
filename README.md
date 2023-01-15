@@ -1,3 +1,5 @@
+# Object Utils JS
+
 deepObjectsComparation.js é uma função para comparar objetos de forma profunda (ou seja, comparando todas as propriedades e sub-propriedades do objeto). Ela garante uma comparação precisa e segura, evitando problemas com objetos que contenham referências cíclicas ou métodos.
 
 deepObjectClone.js é uma função para clonar objetos de forma profunda (ou seja, criando cópias exatas de todas as propriedades e sub-propriedades do objeto original). Ele garante que o objeto original não será modificado e evita problemas com objetos que contenham referências cíclicas ou métodos.
